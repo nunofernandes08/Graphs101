@@ -1,0 +1,12 @@
+.App {
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+
+.paddingAvatars:not(:last-child) {
+  margin-right: 20px;
+}
+
+.MuiDialog-paperWidthSm {
+  max-width: 1000px !important;
+}
